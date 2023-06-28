@@ -2,7 +2,11 @@
 
 ## Instructions
 
-This activity is broken down into two parts, WeatherPy and VacationPy.
+This challenge is broken down into two parts
+
+- Part 1: WeatherPy
+
+- Part 2: VacationPy
 
 ## Part 1: WeatherPy
 
@@ -10,7 +14,7 @@ Create a Python script to visualize the weather of over 500 cities of varying di
 Use ## citipy Python library and ## OpenWeatherMap API Links, to create a representative model of weather across cities.
 Use the WeatherPy.ipynb Jupyter notebook provided. With the starter code develop a solution to address the required functionalities.
 
-## Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude
+**Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude**
 
 With OpenWeatherMap API retrieve the weather data from the cities list generated in the starter code to create a series of scatter plots to showcase the following relationships:
 
@@ -22,29 +26,29 @@ With OpenWeatherMap API retrieve the weather data from the cities list generated
   
   - Latitude vs. Wind Speed
   
-## Requirement 2: Compute Linear Regression for Each Relationship
+**Requirement 2: Compute Linear Regression for Each Relationship**
 
 Next compute the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude).
 Then create a series of scatter plots. Include the linear regression line, the model's formula, and the r values.
 Sample scatter plot with the linear regression line.
 
-**- You should create the following plots:**
+  **You should create the following plots:**
 
-    - Northern Hemisphere: Temperature vs. Latitude
+      - Northern Hemisphere: Temperature vs. Latitude
     
-    - Southern Hemisphere: Temperature vs. Latitude
+      - Southern Hemisphere: Temperature vs. Latitude
     
-    - Northern Hemisphere: Humidity vs. Latitude
+      - Northern Hemisphere: Humidity vs. Latitude
     
-    - Southern Hemisphere: Humidity vs. Latitude
+      - Southern Hemisphere: Humidity vs. Latitude
     
-    - Northern Hemisphere: Cloudiness vs. Latitude
+      - Northern Hemisphere: Cloudiness vs. Latitude
     
-    - Southern Hemisphere: Cloudiness vs. Latitude
+      - Southern Hemisphere: Cloudiness vs. Latitude
     
-    - Northern Hemisphere: Wind Speed vs. Latitude
+      - Northern Hemisphere: Wind Speed vs. Latitude
    
-   - Southern Hemisphere: Wind Speed vs. Latitude
+     - Southern Hemisphere: Wind Speed vs. Latitude
 
 Describe any relationships or other findings.
 
