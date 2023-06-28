@@ -1,4 +1,4 @@
-# Python-api_challenge
+# Python api challenge
 
 ## Instructions
 
@@ -28,7 +28,7 @@ Next compute the linear regression for each relationship. Separate the plots int
 Then create a series of scatter plots. Include the linear regression line, the model's formula, and the r values.
 Sample scatter plot with the linear regression line.
 
-- You should create the following plots:
+**- You should create the following plots:**
 
     - Northern Hemisphere: Temperature vs. Latitude
     
